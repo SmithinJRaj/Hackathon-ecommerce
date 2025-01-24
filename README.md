@@ -1,19 +1,20 @@
 # Hackathon-ecommerce
 
-#E-Commerce Website
+# E-Commerce Website
 
 Problem Statement:
 Build an e-commerce website where users can browse products, add them to a cart, and make
 purchases. The platform should ensure an intuitive shopping experience and seamless
 transaction processing.
-Core Features:
-● Product Catalog: Display products with detailed descriptions, images, and prices.
+Core Features:<br> 
+● Product Catalog: Display products with detailed descriptions, images, and prices.<br>
 ● Cart and Checkout: Implement a shopping cart with options to add/remove items and a
-secure checkout process.
-● User Accounts: Allow users to register, log in, and view their order history.
+secure checkout process.<br>
+● User Accounts: Allow users to register, log in, and view their order history.<br>
 ● Search and Recommendations: Include a search bar and product recommendations
-based on user behavior.
-Challenges for Advanced Users:
-● Integrate payment gateways (e.g., PayPal, Stripe).
-● Add an admin dashboard to manage inventory, orders, and customer queries.
-● Implement product reviews and ratings for better user engagement.
+based on user behavior.<br>
+
+# Challenges for Advanced Users:
+● Integrate payment gateways (e.g., PayPal, Stripe).<br>
+● Add an admin dashboard to manage inventory, orders, and customer queries.<br>
+● Implement product reviews and ratings for better user engagement.<br>
